@@ -7,10 +7,10 @@
 
 # Site settings
 title: zhipsoft.com # ex. I m Chuan
-name: Your Name # ex. DONGChuan
-email: my_email_address@lalala.com
+name: www.zhipsoft.com # ex. DONGChuan
+email: zhipsoft@163.com
 location: My location # ex. Nice, France
-company: MyCompany
+company: zhipsoft
 company_url: my_company_website
 github_url: my_github_url # ex. https://github.com/DONGChuan
 github_username: # ex. DONGChuan
