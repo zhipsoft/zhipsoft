@@ -11,7 +11,7 @@ name: www.zhipsoft.com # ex. DONGChuan
 email: zhipsoft@163.com
 location: My location # ex. Nice, France
 company: zhipsoft
-company_url: my_company_website
+company_url: www.zhipsoft.com
 github_url: my_github_url # ex. https://github.com/DONGChuan
 github_username: # ex. DONGChuan
 description: description_of_your_web_site
@@ -21,7 +21,7 @@ repository: github_username/github_username.github.io # ex. DONGChuan/DONGChuan.
 # The base hostname & protocol for your site
 # For local test, please use http://localhost:4000
 # For production, use your github page url. ex. http://dongchuan.github.io
-url: http://localhost:4000
+url: http://www.zhipsoft.com
 
 ## Gem
 gems:
